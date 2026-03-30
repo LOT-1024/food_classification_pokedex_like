@@ -126,6 +126,7 @@ assets/
 
 ## ML Model
 
+- **Source:** [Google AIY Vision Models — Kaggle](https://www.kaggle.com/models/google/aiy/tfLite)
 - **Input:** 224×224 RGB image
 - **Output:** Probability vector over food classes
 - **Formats supported:** `float32` (normalized 0–1) and `uint8` (0–255) — auto-detected at runtime
